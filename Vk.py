@@ -1,5 +1,7 @@
 import requests
 
+# todo: перейти к асинхронной библиотеке запросов
+
 
 class Vk:
     def __init__(self, token):
